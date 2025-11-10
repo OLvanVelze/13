@@ -7,7 +7,7 @@ project:
     - name: Roel Smit
 
   date: 2025-11-05
-  github: https://github.com/Contemporary-Physicslab/thermolab # Change this URL to your GitHub repository
+  github: https://github.com/OLvanVelze/13 # Change this URL to your GitHub repository ## Done
 
 extends:
   - plugins.yml
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://github.com/Contemporary-Physicslab/thermolab/issues # change this URL to your repository
+      url: https://github.com/OLvanVelze/13/issues # change this URL to your repository
