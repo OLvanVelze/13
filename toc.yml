@@ -58,4 +58,4 @@ project:
     - title: Druk
       children:
       file: Content/Labs/druksensorijken.ipynb
-      #     - file: Content/Labs/pV_diagram.ipynb
+      #file: Content/Labs/pV_diagram.ipynb
