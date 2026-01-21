@@ -41,9 +41,10 @@ project:
         - file: Content/PySim/4_brownianmotion.ipynb
         - file: Content/PySim/5_druktemp.ipynb
         - file: Content/PySim/6_boltzmann.ipynb
-        # - file: Content/PySim/7_arbeid.ipynb
-        # - file: Content/PySim/8_thermostaat.ipynb
-        # - file: Content/PySim/9_entropie.ipynb
+        - file: Content/PySim/7_arbeid.ipynb
+        - file: Content/PySim/8_thermostaat.ipynb
+        # - file: Content/PySim/9_entropie.ipynb # hoeft ahgi niet voor pass
+        # - file: Content/PySim/10_voltaische_cel.ipynb # zelf toegevoegd, hoeft ahgi niet voor pass
 
     - title: Labs
       file: Content/Labs/uitleg.md
@@ -54,8 +55,10 @@ project:
       - file: Content/Labs/cwater.ipynb
       - file: Content/Labs/Verdamping.ipynb        
       - file: Content/Labs/Warmtecapaciteit.ipynb
+      - file: Content/Labs/koelbuis.ipynb #zelf toegevoegd, weet niet waar deze anders hoort
 
     - title: Druk
       children:
+      - file: Content/Labs/ballonproef.ipynb #zelf toegevoegd, stond hier in de voorbeeld portfolio
       - file: Content/Labs/druksensorijken.ipynb
-      #- file: Content/Labs/pV_diagram.ipynb
+      #- file: Content/Labs/pV_diagram.ipynb # deel van de 1/3 experimenten die hoefden ahgi
